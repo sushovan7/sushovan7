@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Info Shapers**
 
-- 🌱 I’m currently learning **React,Tailwind CSS**
+- 🌱 I’m currently learning **MongoDb**
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
